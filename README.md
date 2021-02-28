@@ -1,3 +1,20 @@
+# Group 3:
+Run with command:
+```
+git clone git@github.com:ECE493W2021T3/task-manager-mean-stack.git
+cd task-manager-mean-stack/
+cd api/
+npm install
+cd frontend/
+npm install
+ng serve
+```
+```
+cd task-manager-mean-stack/
+cd api/
+npm install
+nodemon app.js
+```
 # Task Manager App
 
 [![Application Design Illustration](App_Illustration.png)](https://www.youtube.com/watch?v=V-CeWkz1MNQ&list=PLIjdNHWULhPSZFDzQU6AnbVQNNo1NTRpd)
